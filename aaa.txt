@@ -1,1 +1,2 @@
 aaaaaaaabbbbccccddd
+Git tracks changes.
